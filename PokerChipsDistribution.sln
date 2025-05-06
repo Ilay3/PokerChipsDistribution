@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerChipsDistribution", "PokerChipsDistribution\PokerChipsDistribution.csproj", "{FF8ED6C5-98AE-4465-83D9-F9E77BCD31BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8ED6C5-98AE-4465-83D9-F9E77BCD31BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8ED6C5-98AE-4465-83D9-F9E77BCD31BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8ED6C5-98AE-4465-83D9-F9E77BCD31BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8ED6C5-98AE-4465-83D9-F9E77BCD31BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7461EA-F8DD-4DB7-8866-5EBD56BD76A3}
+	EndGlobalSection
+EndGlobal
